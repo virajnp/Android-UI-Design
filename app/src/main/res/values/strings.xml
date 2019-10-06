@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Assignment 1(Layout)</string>
+
+    <string name="s1">min  &lt;= hour &amp;&amp; hour &lt;= max</string>
+    <string name="s2">System.out.println(greeting + \", World! \" )</string>
+
+</resources>
